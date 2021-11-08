@@ -88,6 +88,6 @@ $ git clone https://github.com/mohamedelmesawy/wuzzuf_eda_client.git
 
 Made with :heart: by <a href="https://github.com/mohamedelmesawy" target="_blank">MOhamed ElMesawy</a> and <a href="https://github.com/ahmednawaad" target="_blank">Ahmed Nabeel</a> and <a href="https://github.com/KhaledSheha" target="_blank">Khaled Sheha</a>
 
-&#xa0;
+&#xa0; 
 
 <a href="#top">Back to top</a>
